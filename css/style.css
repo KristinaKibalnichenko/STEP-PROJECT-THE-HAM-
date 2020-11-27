@@ -103,6 +103,10 @@ a {
     border-bottom: 2px solid #18CFAB;
 }
 
+.search {
+    fill: rgba(255, 255, 255, 0.6);
+}
+
 .creative {
     width: 100%;
     margin-top: -120px;
@@ -279,7 +283,7 @@ a {
 }
 
 .tabs-title:hover {
-    border: 1.5px solid #18CFAB;
+    border-color: #18CFAB;
 }
 
 .tabs-title.active {
@@ -429,7 +433,7 @@ a {
 
 .work-tabs-title:hover, .work-tabs-title.active {
     color: #18CFAB;
-    border: 2px solid #18CFAB;
+    border-color: #18CFAB;
 }
 
 .work__img {

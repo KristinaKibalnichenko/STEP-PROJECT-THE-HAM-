@@ -84,51 +84,51 @@ let loadMorePictures = function () {
                     imgArr[i].setAttribute('height', 211);
                 };
 
-                imgArr[0].setAttribute('src', '../img/graphic_design/graphic-design1.jpg');
+                imgArr[0].setAttribute('src', 'img/graphic_design/graphic-design1.jpg');
                 imgArr[0].setAttribute('alt', 'Umbrella');
                 imgArr[0].classList.add('work__img', 'work-graphic-design', 'work-all', 'active');
 
-                imgArr[1].setAttribute('src', '../img/graphic_design/graphic-design6.jpg');
+                imgArr[1].setAttribute('src', 'img/graphic_design/graphic-design6.jpg');
                 imgArr[1].setAttribute('alt', 'Tagline');
                 imgArr[1].classList.add('work__img', 'work-graphic-design', 'work-all', 'active');
 
-                imgArr[2].setAttribute('src', '../img/graphic_design/graphic-design7.jpg');
+                imgArr[2].setAttribute('src', 'img/graphic_design/graphic-design7.jpg');
                 imgArr[2].setAttribute('alt', 'Advertisement of design');
                 imgArr[2].classList.add('work__img', 'work-graphic-design', 'work-all', 'active');
 
-                imgArr[3].setAttribute('src', '../img/web_design/web-design4.jpg');
+                imgArr[3].setAttribute('src', 'img/web_design/web-design4.jpg');
                 imgArr[3].setAttribute('alt', 'Creative Design');
                 imgArr[3].classList.add('work__img', 'work-web-design', 'work-all', 'active');
 
-                imgArr[4].setAttribute('src', '../img/web_design/web-design5.jpg');
+                imgArr[4].setAttribute('src', 'img/web_design/web-design5.jpg');
                 imgArr[4].setAttribute('alt', 'Design with HTML&CSS');
                 imgArr[4].classList.add('work__img', 'work-web-design', 'work-all', 'active');
 
-                imgArr[5].setAttribute('src', '../img/web_design/web-design6.jpg');
+                imgArr[5].setAttribute('src', 'img/web_design/web-design6.jpg');
                 imgArr[5].setAttribute('alt', 'Colorfull Design');
                 imgArr[5].classList.add('work__img', 'work-web-design', 'work-all', 'active');
 
-                imgArr[6].setAttribute('src', '../img/landing_page/landing-page4.jpg');
+                imgArr[6].setAttribute('src', 'img/landing_page/landing-page4.jpg');
                 imgArr[6].setAttribute('alt', 'Lorem Ipsum');
                 imgArr[6].classList.add('work__img', 'work-landing-pages', 'work-all', 'active');
 
-                imgArr[7].setAttribute('src', '../img/landing_page/landing-page5.jpg');
+                imgArr[7].setAttribute('src', 'img/landing_page/landing-page5.jpg');
                 imgArr[7].setAttribute('alt', 'Galaxy Phone');
                 imgArr[7].classList.add('work__img', 'work-landing-pages', 'work-all', 'active');
 
-                imgArr[8].setAttribute('src', '../img/landing_page/landing-page6.jpg');
+                imgArr[8].setAttribute('src', 'img/landing_page/landing-page6.jpg');
                 imgArr[8].setAttribute('alt', 'Colise');
                 imgArr[8].classList.add('work__img', 'work-landing-pages', 'work-all', 'active');
 
-                imgArr[9].setAttribute('src', '../img/wordpress/wordpress4.jpg');
+                imgArr[9].setAttribute('src', 'img/wordpress/wordpress4.jpg');
                 imgArr[9].setAttribute('alt', 'Tablets');
                 imgArr[9].classList.add('work__img', 'work-wordpress', 'work-all', 'active');
 
-                imgArr[10].setAttribute('src', '../img/wordpress/wordpress5.jpg');
+                imgArr[10].setAttribute('src', 'img/wordpress/wordpress5.jpg');
                 imgArr[10].setAttribute('alt', 'Notebook');
                 imgArr[10].classList.add('work__img', 'work-wordpress', 'work-all', 'active');
 
-                imgArr[11].setAttribute('src', '../img/wordpress/wordpress6.jpg');
+                imgArr[11].setAttribute('src', 'img/wordpress/wordpress6.jpg');
                 imgArr[11].setAttribute('alt', 'Monitor');
                 imgArr[11].classList.add('work__img', 'work-wordpress', 'work-all', 'active');
 
@@ -150,51 +150,51 @@ let loadMorePictures = function () {
                     imgArr[i].setAttribute('height', 211);
                 };
 
-                imgArr[0].setAttribute('src', '../img/graphic_design/graphic-design8.jpg');
+                imgArr[0].setAttribute('src', 'img/graphic_design/graphic-design8.jpg');
                 imgArr[0].setAttribute('alt', 'Colorfull border');
                 imgArr[0].classList.add('work__img', 'work-graphic-design', 'work-all', 'active');
 
-                imgArr[1].setAttribute('src', '../img/graphic_design/graphic-design9.jpg');
+                imgArr[1].setAttribute('src', 'img/graphic_design/graphic-design9.jpg');
                 imgArr[1].setAttribute('alt', 'Maps of flowers');
                 imgArr[1].classList.add('work__img', 'work-graphic-design', 'work-all', 'active');
 
-                imgArr[2].setAttribute('src', '../img/graphic_design/graphic-design10.jpg');
+                imgArr[2].setAttribute('src', 'img/graphic_design/graphic-design10.jpg');
                 imgArr[2].setAttribute('alt', 'Shelves with items');
                 imgArr[2].classList.add('work__img', 'work-graphic-design', 'work-all', 'active');
 
-                imgArr[3].setAttribute('src', '../img/web_design/web-design7.jpg');
+                imgArr[3].setAttribute('src', 'img/web_design/web-design7.jpg');
                 imgArr[3].setAttribute('alt', 'PC Networks');
                 imgArr[3].classList.add('work__img', 'work-web-design', 'work-all', 'active');
 
-                imgArr[4].setAttribute('src', '../img/graphic_design/graphic-design11.jpg');
+                imgArr[4].setAttribute('src', 'img/graphic_design/graphic-design11.jpg');
                 imgArr[4].setAttribute('alt', 'Black&White');
                 imgArr[4].classList.add('work__img', 'work-graphic-design', 'work-all', 'active');
 
-                imgArr[5].setAttribute('src', '../img/graphic_design/graphic-design12.jpg');
+                imgArr[5].setAttribute('src', 'img/graphic_design/graphic-design12.jpg');
                 imgArr[5].setAttribute('alt', 'Flash');
                 imgArr[5].classList.add('work__img', 'work-graphic-design', 'work-all', 'active');
 
-                imgArr[6].setAttribute('src', '../img/landing_page/landing-page7.jpg');
+                imgArr[6].setAttribute('src', 'img/landing_page/landing-page7.jpg');
                 imgArr[6].setAttribute('alt', 'Bromo');
                 imgArr[6].classList.add('work__img', 'work-landing-pages', 'work-all', 'active');
 
-                imgArr[7].setAttribute('src', '../img/wordpress/wordpress7.jpg');
+                imgArr[7].setAttribute('src', 'img/wordpress/wordpress7.jpg');
                 imgArr[7].setAttribute('alt', 'Input');
                 imgArr[7].classList.add('work__img', 'work-wordpress', 'work-all', 'active');
 
-                imgArr[8].setAttribute('src', '../img/wordpress/wordpress8.jpg');
+                imgArr[8].setAttribute('src', 'img/wordpress/wordpress8.jpg');
                 imgArr[8].setAttribute('alt', 'Letter W');
                 imgArr[8].classList.add('work__img', 'work-wordpress', 'work-all', 'active');
 
-                imgArr[9].setAttribute('src', '../img/wordpress/wordpress9.jpg');
+                imgArr[9].setAttribute('src', 'img/wordpress/wordpress9.jpg');
                 imgArr[9].setAttribute('alt', 'Letter W - Tagline');
                 imgArr[9].classList.add('work__img', 'work-wordpress', 'work-all', 'active');
 
-                imgArr[10].setAttribute('src', '../img/wordpress/wordpress10.jpg');
+                imgArr[10].setAttribute('src', 'img/wordpress/wordpress10.jpg');
                 imgArr[10].setAttribute('alt', 'Tablet with letter W');
                 imgArr[10].classList.add('work__img', 'work-wordpress', 'work-all', 'active');
 
-                imgArr[11].setAttribute('src', '../img/graphic_design/graphic-design5.jpg');
+                imgArr[11].setAttribute('src', 'img/graphic_design/graphic-design5.jpg');
                 imgArr[11].setAttribute('alt', 'Abstraction');
                 imgArr[11].classList.add('work__img', 'work-graphic-design', 'work-all', 'active');
 
